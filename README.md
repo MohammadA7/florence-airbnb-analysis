@@ -1,6 +1,6 @@
 # Florence-Airbnb-Analysis
 
-In this repo we will take a look at Florance Airbnb datasets we will try to analyze it to find answers to some business questions
+In this repo we will take a look at Florance Airbnb datasets we will try to analyze  following CRISP-DM process
 
 ## Project files
 
